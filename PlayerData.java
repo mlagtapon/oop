@@ -1,10 +1,4 @@
-/** 
- * Template Author: Kayla Wesley
- * Maricar Lagtapon - ipp11
- * Kody Norsworthy - ksn27
- * Humera Durvesh - h_d111
- * Martin Mendoza - gqb4
- */
+
 package project3;
 import java.util.UUID;
 import java.time.LocalDateTime;

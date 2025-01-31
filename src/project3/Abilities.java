@@ -1,11 +1,6 @@
 package project3;
 
 /**
- * Group Members:
- * - Kody Norsworthy, ksn27
- * - Maricar Lagtapon - ipp11
- * - Humera Durvesh - h_d111
- * - Martin Mendoza - gqb4
  * 
  * Abilities Interface - Represents the common abilities 
  * structure for all characters

@@ -1,14 +1,5 @@
 package project3;
 
-/**
- * Group Members:
- * - Martin Mendoza - gqb4
- * - Humera Durvesh - h_d111
- * - Kody Norsworthy, ksn27
- * - Maricar Lagtapon - ipp11
- * 
-*/
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

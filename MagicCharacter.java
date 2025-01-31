@@ -1,11 +1,6 @@
 package project3;
 
 /**
- * Group Members: 
- * - Maricar Lagtapon - ipp11
- * - Martin Mendoza - gqb4
- * - Humera Durvesh - h_d111
- * - Kody Norsworthy, ksn27
  * 
  * A class for all magic characters
  * that extends from the base character

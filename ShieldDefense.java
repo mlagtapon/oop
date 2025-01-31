@@ -1,11 +1,6 @@
 package project3;
 
 /**
- * Group Members:
- * - Martin Mendoza - gqb4
- * - Humera Durvesh - h_d111
- * - Kody Norsworthy, ksn27
- * - Maricar Lagtapon - ipp11
  * 
  * Shield defense class that implements Abilities
  * 

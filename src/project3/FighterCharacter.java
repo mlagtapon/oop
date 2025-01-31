@@ -1,11 +1,6 @@
 package project3;
 
 /**
- * Group Members:
- * - Kody Norsworthy, ksn27
- * - Martin Mendoza - gqb4
- * - Humera Durvesh - h_d111
- * - Maricar Lagtapon - ipp11
  * 
  * Represents a fighter character with heavy armor and special abilities.
  * This class extends the BaseCharacter and implements the Abilities interface.
